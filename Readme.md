@@ -8,8 +8,8 @@ This repository contains coding exercises, practice projects, and other assignme
 
 ```text
 StepAcademy/
-├── assignment-01/
-├── assignment-02/
+├── homework-01/
+├── homework-02/
 └── ...
 ```
 
